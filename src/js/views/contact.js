@@ -47,5 +47,5 @@ export default () => /*html*/`
         </td>
     </tr>
 </table>
-
+<a href="/about" data-link class="button">Retroalimentar</a>
 `;
